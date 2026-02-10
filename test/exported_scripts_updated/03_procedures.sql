@@ -1,0 +1,25 @@
+-- Procedury
+-- PROCEDURE_META SP_GET_CUSTOMER_BALANCE
+-- IN CUSTOMER_ID DM_SHORT
+-- IN CURRENCY_ID DM_SHORT
+-- IN BALANCE DM_AMOUNT
+
+BEGIN
+    SELECT c.balance
+    FROM customers c
+    WHERE c.customer_id = :CUSTOMER_ID
+      AND c.currency_id = :CURRENCY_ID
+    INTO :BALANCE;
+END
+
+-- PROCEDURE_META SP_GET_ORDER_TOTAL
+-- IN ORDER_ID DM_SHORT
+-- IN TOTAL_AMOUNT DM_AMOUNT
+
+BEGIN
+    SELECT o.total
+    FROM orders o
+    WHERE o.order_id = :ORDER_ID
+    INTO :TOTAL_AMOUNT;
+END
+

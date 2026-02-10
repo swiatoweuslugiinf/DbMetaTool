@@ -1,0 +1,23 @@
+{
+  "profiles": {
+    "WSL": {
+      "commandName": "WSL2",
+      "distributionName": ""
+    },
+    "DbMetaTool": {
+      "commandName": "Project"
+    },
+    "export_scripts": {
+      "commandName": "Project",
+      "commandLineArgs": "export-scripts --connection-string \"...\" --output-dir \"C:\\out\""
+    },
+    "build-db": {
+      "commandName": "Project",
+      "commandLineArgs": "build-db --db-dir \"C:\\db\\fb5\" --scripts-dir \"C:\\scripts\""
+    },
+    "update-db": {
+      "commandName": "Project",
+      "commandLineArgs": "update-db --connection-string \"...\" --scripts-dir \"C:\\scripts\""
+    }
+  }
+}

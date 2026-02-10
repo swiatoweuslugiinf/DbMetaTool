@@ -1,0 +1,17 @@
+C:\Visual Studio\Sente\DbMetaTool\bin\Debug\net8.0\DbMetaTool.exe
+C:\Visual Studio\Sente\DbMetaTool\bin\Debug\net8.0\DbMetaTool.deps.json
+C:\Visual Studio\Sente\DbMetaTool\bin\Debug\net8.0\DbMetaTool.runtimeconfig.json
+C:\Visual Studio\Sente\DbMetaTool\bin\Debug\net8.0\DbMetaTool.dll
+C:\Visual Studio\Sente\DbMetaTool\bin\Debug\net8.0\DbMetaTool.pdb
+C:\Visual Studio\Sente\DbMetaTool\obj\Debug\net8.0\DbMetaTool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio\Sente\DbMetaTool\obj\Debug\net8.0\DbMetaTool.AssemblyInfoInputs.cache
+C:\Visual Studio\Sente\DbMetaTool\obj\Debug\net8.0\DbMetaTool.AssemblyInfo.cs
+C:\Visual Studio\Sente\DbMetaTool\obj\Debug\net8.0\DbMetaTool.csproj.CoreCompileInputs.cache
+C:\Visual Studio\Sente\DbMetaTool\obj\Debug\net8.0\DbMetaTool.dll
+C:\Visual Studio\Sente\DbMetaTool\obj\Debug\net8.0\refint\DbMetaTool.dll
+C:\Visual Studio\Sente\DbMetaTool\obj\Debug\net8.0\DbMetaTool.pdb
+C:\Visual Studio\Sente\DbMetaTool\obj\Debug\net8.0\DbMetaTool.genruntimeconfig.cache
+C:\Visual Studio\Sente\DbMetaTool\obj\Debug\net8.0\ref\DbMetaTool.dll
+C:\Visual Studio\Sente\DbMetaTool\bin\Debug\net8.0\FirebirdSql.Data.FirebirdClient.dll
+C:\Visual Studio\Sente\DbMetaTool\obj\Debug\net8.0\DbMetaTool.csproj.AssemblyReference.cache
+C:\Visual Studio\Sente\DbMetaTool\obj\Debug\net8.0\DbMetaTool.csproj.Up2Date
